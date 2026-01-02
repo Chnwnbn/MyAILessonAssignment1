@@ -1,0 +1,2 @@
+# MyAILessonAssignment111
+就是用来放医学人工智能的作业
